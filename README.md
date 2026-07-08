@@ -40,4 +40,4 @@ For more information about SpaceNet, visit: https://www.spacenet-python.com
 
 If you use **netPCF**, the datasets, or any part of the analysis in your research, please cite:
 
-> *Citation to be added upon publication.*
+> Joshua W. Moore, Joshua A. Bull, and Helen M. Byrne. Netpcf: geometry-aware pair correlation functions for spatial biology. bioRxiv, 2026. doi:10.64898/2026.07.02.736020.
